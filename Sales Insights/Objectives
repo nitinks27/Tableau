@@ -1,0 +1,21 @@
+For this project I connected MySQL Server with Tableau and there understand and manipulated data according to the need.
+Further process includes building relationship schema, Cleaning and filtering data, introducing new calculated fields, etc.
+
+## AIMS GRID
+
+**Purpose:**
+To unlock sales insights that are not visible before the sales team for decision support & automate them to reduce manual time spent in data gathering.
+
+**Stakeholders:**
+- Sales Director
+- Marketing Team
+- Customer Service Team, Data & Analytics Team
+- IT
+
+**End Result:**
+An automated Dashboard provides quick & latest sales insights to support driven decision making.
+
+**Success Criteria:**
+- Dashboard uncovering sales order insights with the latest data available.
+- Sales team able to make better decisions & prove 10% cost savings of total spend.
+- Sales Analysts stop data gathering manually to save 20% of their business time and reinvest in value-added activities.
