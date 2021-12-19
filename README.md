@@ -9,5 +9,5 @@ In this repositories I've mentioned my key Tableau projects on which I worked on
 
 ## Sales Insight ::
 
-**Purpose:**
+**Objective:**
 - To unlock sales insigths that are not visible before sales team for decision support & automate them to reduced manual time spent in data gathering.
